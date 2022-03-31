@@ -97,8 +97,6 @@ A partir de este punto, la edición debe perseguir el objetivo inicial de la doc
 4. Utilizar imágenes, diagramas.
 5. Documentar aspectos del código que generan o podrían generar preguntas frecuentes. 
 
- 
-
 ## Ventajas de documentar
 
 En general, documentar nos proporciona muchos beneficios. Entre los principales:
@@ -110,7 +108,7 @@ En general, documentar nos proporciona muchos beneficios. Entre los principales:
 - Permite monitorear avances y problemas.
 - Desarrolla habilidades de escritura.
 
-El hackatón es un evento en el que principiantes y expertos colaboran para desarrollar software y, el hecho de que los proyectos sobre los que se está trabajando se documenten representa una herramienta colaborativa valiosa.
+El hackatón es un evento en el que principiantes y expertos colaboran para desarrollar software. El hecho de que los proyectos sobre los que se está trabajando se documenten representa una herramienta colaborativa valiosa.
 
 ## Referencias 
 
