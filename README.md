@@ -77,6 +77,10 @@ En [este link](https://stackedit.io/app#) puedes encontrar un ejemplo de como se
 
 ### Estructura sugerida
 
+Buenas prácticas en la elaboración de documentación:
+
+![image](https://user-images.githubusercontent.com/101894380/160982871-ffd84824-95e4-4588-b59d-18956d88ef00.png)
+
 Es importante comenzar por reconocer el público para el que escribes la documentación. Este reconocimiento te ayudará a saber que tan técnica y formal debe ser tu redacción. Así mismo, debes **apremiar la claridad y sencilles**.
 
 Como todo artículo, la documentación comienza por un título; debe ser corto y descriptivo. Inmediatamente después, describe brevemente de qué trata tu proyecto y qué problema resuelve. Anexa una tabla de contenidos en este punto; esto servirá para que las personas que visiten tu repositorio puedan viajar rápidamente dentro de tu documentación.
