@@ -5,8 +5,11 @@ Como participante del hackatón Hello Mexicoders!, es importante que realices un
 Para la realización de esta guía se siguen las recomendaciones del artículo “A beginner’s guide to writing documentation”, publicado por la comunidad Write the Docs.
 
 ### Tabla de contenidos
-* [Introducción a la documentación](introducción-a-la-documentación)
-* [Pasos preliminares](pasos-preliminares) 
+* [Introducción a la documentación](#introducción-a-la-documentación)
+* [Pasos preliminares](#pasos-preliminares) 
+* [Cómo documentar](#cómo-documentar) 
+* [Ventajas de documentar](#ventajas-de-documentar)
+
 
 ## Introducción a la documentación
 
@@ -31,6 +34,16 @@ Ahora sigue estos pasos para crear tu primer archivo de documentación:
 
 ![image](https://user-images.githubusercontent.com/101894380/160959053-baac65df-2097-4ddc-8f2e-bd821d9c5978.png)
 
-3) Se te mostrará una pantalla en la que deberás asignar un nombre al repositorio (preferentemente uno con relación al proyecto que deseas dar seguimiento y documentar). Así mismo, es recomendable llenar el campo de "description", ya que esto permitirá a los usuarios que visiten tu repositorio saber a priori de que trata tu proyecto. Es **importante** que selecciones las opciones "public" y "Add a README file", pues esto creará el documento README en el que podrás redactar la documentación y será de acceso público (más adelante veremos las ventajas de este tipo de acceso) 
+3) Se te mostrará una pantalla en la que deberás asignar un nombre al repositorio (preferentemente uno con relación al proyecto que deseas dar seguimiento y documentar). Así mismo, es recomendable llenar el campo de "description", ya que esto permitirá a los usuarios que visiten tu repositorio y saber a priori de que trata tu proyecto. Es **importante** que selecciones las opciones "public" y "Add a README file", pues esto creará el documento README en el que podrás redactar la documentación y será de acceso público (más adelante veremos las ventajas de este tipo de acceso). Después de lo anterior, deberías tener algo así:
+
+![image](https://user-images.githubusercontent.com/101894380/160960485-4ea5faa2-7fa7-43b3-9403-53ba83473e7c.png)
+
+4) Finalmente, da click en "Create repository"
+
+![image](https://user-images.githubusercontent.com/101894380/160960707-52670153-fb93-438f-8972-5547d4e2049c.png)
+
+## Cómo documentar 
+
+## Ventajas de documentar
 
 
