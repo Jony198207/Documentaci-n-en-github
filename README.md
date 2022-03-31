@@ -13,13 +13,15 @@ Para la realización de esta guía se siguen las recomendaciones del artículo �
   * [Markdown](#markdown)
   * [Estructura sugerida](#estructura-sugerida)
 * [Ventajas de documentar](#ventajas-de-documentar)
-
+* [Referencias](#referencias)
 
 ## Introducción a la documentación
 
-La documentación de un proyecto de desarrollo es tan importante como el proyecto mismo. Este tipo de archivos permite transferir el por qué detrás del código, de manera que cualquier persona que 
+La documentación de un proyecto de desarrollo es tan importante como el proyecto mismo. Este tipo de archivos permite transferir el por qué detrás del código, de manera que leer este documento esa suficiente para entender de qué trata o cómo funciona el proyecto. 
 
-Documentar consiste en ...
+Documentar consiste, a grandes rasgos, en **explicar qué hace tu proyecto, cómo y por qué existe**. Como bien señala Write the Docs, es el arte de "asegurarse de brindar a los usuarios toda la información que necesitan, pero no demasiada".[1]
+
+Típicamente este tipo de documentos son la carta de presentación de un proyecto que puede, o no, estar terminado. Debido a ello, es imperativo dejar en claro cómo es que funciona cada elemento o, en su defecto, cómo se desea que funcione.
 
 ## Pasos preliminares
 
@@ -78,3 +80,7 @@ En [este link](https://stackedit.io/app#) puedes encontrar un ejemplo de como se
 
 
 ## Referencias 
+
+[1] Write The Docs, “A beginner’s guide to writing documentation — Write the Docs,” www.writethedocs.org, Jun. 01, 2021. https://www.writethedocs.org/guide/writing/beginners-guide-to-docs/.
+
+
