@@ -77,13 +77,27 @@ En [este link](https://stackedit.io/app#) puedes encontrar un ejemplo de como se
 
 ### Estructura sugerida
 
-Es importante comenzar por reconocer el público para el que escribes la documentación. Este reconocimiento te ayudará a saber que tan técnica y formal debe ser tu redacción. Así mismo, debes apremiar la claridad y sencilles.
+Es importante comenzar por reconocer el público para el que escribes la documentación. Este reconocimiento te ayudará a saber que tan técnica y formal debe ser tu redacción. Así mismo, debes **apremiar la claridad y sencilles**.
 
 Como todo artículo, la documentación comienza por un título; debe ser corto y descriptivo. Inmediatamente después, describe brevemente de qué trata tu proyecto y qué problema resuelve. Anexa una tabla de contenidos en este punto; esto servirá para que las personas que visiten tu repositorio puedan viajar rápidamente dentro de tu documentación.
 
-Si deseas que otras personas puedan ve
+**Crea enlaces** que redireccionen al usuario a tu código si deseas que otras personas puedan verlo, o incluso modificarlo.
+
+Por ejemplo:
+
+![image](https://user-images.githubusercontent.com/101894380/160977758-93e53f1f-1dc7-4c5a-ac26-4b74ddc7730d.png)
 
 Escribe una pequeña introducción en la que menciones aspectos importantes del funcionamiento de tu proyecto o conceptos con los que quizá no todos estén familiarizados. 
+
+A partir de este punto, la edición debe perseguir el objetivo inicial de la documentación: explicar qué hace tu proyecto, cómo y por qué existe. Para lograrlo procura:
+
+1. Proporcionar la información necesaria para que los usuarios sepan cómo obtener tu proyecto y cómo hacerlo funcionar.
+2. Utilizar subtítulos para que los usuarios pueden encontrar más fácilmente lo que buscan.
+3. Explicar el funcionamiento típico de tu programa. Los ejemplos son una buena manera de hacerlo.
+4. Utilizar imágenes, diagramas.
+5. Documentar aspectos del código que generan o podrían generar preguntas frecuentes. 
+
+ 
 
 ## Ventajas de documentar
 
