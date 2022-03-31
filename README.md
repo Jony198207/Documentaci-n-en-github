@@ -8,7 +8,7 @@ Para la realización de esta guía se siguen las recomendaciones del artículo �
 * [Introducción a la documentación](#introducción-a-la-documentación)
 * [Pasos preliminares](#pasos-preliminares) 
   * [Crear tu cuenta de GitHub](#crear-tu-cuenta-de-github)  
-  * [Crear un repositorio](crear-un-repositorio)
+  * [Crear un repositorio](#crear-un-repositorio)
 * [Cómo documentar](#cómo-documentar) 
 * [Ventajas de documentar](#ventajas-de-documentar)
 
