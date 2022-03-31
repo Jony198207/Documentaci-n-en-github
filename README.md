@@ -7,6 +7,8 @@ Para la realización de esta guía se siguen las recomendaciones del artículo �
 ### Tabla de contenidos
 * [Introducción a la documentación](#introducción-a-la-documentación)
 * [Pasos preliminares](#pasos-preliminares) 
+  * [Crear tu cuenta de GitHub](#crear-tu-cuenta-de-github)  
+  * [Crear un repositorio](crear-un-repositorio)
 * [Cómo documentar](#cómo-documentar) 
 * [Ventajas de documentar](#ventajas-de-documentar)
 
@@ -19,10 +21,14 @@ Documentar consiste en ...
 
 ## Pasos preliminares
 
+### Crear tu cuenta de GitHub
+
 Para crear documentación en GitHub, primero debes tener una cuenta en esta plataforma. Si aún no cuentas con una, puedes crearla gratuitamente [aquí](https://github.com/signup?ref_cta=Sign+up&ref_loc=header+logged+out&ref_page=%2F&source=header-home). 
 
 Una vez que inicialices la plataforma con tu cuenta se desplegará una pantalla como la siguiente:
 ![image](https://user-images.githubusercontent.com/101894380/160957771-ef3ed28e-b09f-4952-9c62-6101e63c76b5.png)
+
+### Crear un repositorio 
 
 Ahora sigue estos pasos para crear tu primer archivo de documentación:
 
