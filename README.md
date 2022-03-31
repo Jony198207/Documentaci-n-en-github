@@ -7,10 +7,30 @@ Para la realización de esta guía se siguen las recomendaciones del artículo �
 ### Tabla de contenidos
 * [Introducción a la documentación](introducción-a-la-documentación)
 * [Pasos preliminares](pasos-preliminares) 
+
 ## Introducción a la documentación
 
-La documentación de un proyecto de desarrollo es casi tan importante como el proyecto mismo. Este tipo de archivos permite transferir el por qué detrás del código.
+La documentación de un proyecto de desarrollo es tan importante como el proyecto mismo. Este tipo de archivos permite transferir el por qué detrás del código, de manera que cualquier persona que 
+
+Documentar consiste en ...
 
 ## Pasos preliminares
 
-Para crear documentación en GitHub, debes tener primero una cuenta en esta plataforma. Si aún no cuentas con una, puedes crearla gratuitamente [aquí](https://github.com/signup?ref_cta=Sign+up&ref_loc=header+logged+out&ref_page=%2F&source=header-home).
+Para crear documentación en GitHub, primero debes tener una cuenta en esta plataforma. Si aún no cuentas con una, puedes crearla gratuitamente [aquí](https://github.com/signup?ref_cta=Sign+up&ref_loc=header+logged+out&ref_page=%2F&source=header-home). 
+
+Una vez que inicialices la plataforma con tu cuenta se desplegará una pantalla como la siguiente:
+![image](https://user-images.githubusercontent.com/101894380/160957771-ef3ed28e-b09f-4952-9c62-6101e63c76b5.png)
+
+Ahora sigue estos pasos para crear tu primer archivo de documentación:
+
+1) Crea un repositorio. Para esto, da click en "Repositories":
+
+![image](https://user-images.githubusercontent.com/101894380/160957948-c8471d4f-87d0-4f8d-b15c-f1366391c160.png) 
+
+2) Ahora da click en "New". 
+
+![image](https://user-images.githubusercontent.com/101894380/160959053-baac65df-2097-4ddc-8f2e-bd821d9c5978.png)
+
+3) Se te mostrará una pantalla en la que deberás asignar un nombre al repositorio (preferentemente uno con relación al proyecto que deseas dar seguimiento y documentar). Así mismo, es recomendable llenar el campo de "description", ya que esto permitirá a los usuarios que visiten tu repositorio saber a priori de que trata tu proyecto. Es **importante** que selecciones las opciones "public" y "Add a README file", pues esto creará el documento README en el que podrás redactar la documentación y será de acceso público (más adelante veremos las ventajas de este tipo de acceso) 
+
+
