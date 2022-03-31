@@ -1,6 +1,6 @@
 # Documentación en GitHub
 
-Como participante del hackatón Hello Mexicoders!, es importante que realices una correcta documentación sobre los proyectos en los que trabajas. No debes preocuparte si por el momento no cuentas con esta habilidad, pues por medio de esta guía te ayudaré a crear tu primer archivo de documentación.
+Como participante del hackatón *Hello Mexicoders!*, es importante que realices una correcta documentación sobre los proyectos en los que trabajas. No te preocupes si por el momento no cuentas con esta habilidad, pues por medio de esta guía te ayudaré a crear tu primer archivo de documentación.
 
 Para la realización de esta guía se siguen las recomendaciones del artículo “A beginner’s guide to writing documentation”, publicado por la comunidad Write the Docs.
 
@@ -32,6 +32,7 @@ Para crear documentación en GitHub, primero debes tener una cuenta en esta plat
 Una vez que inicialices la plataforma con tu cuenta se desplegará una pantalla como la siguiente:
 ![image](https://user-images.githubusercontent.com/101894380/160957771-ef3ed28e-b09f-4952-9c62-6101e63c76b5.png)
 
+
 ### Crear un repositorio 
 
 Ahora sigue estos pasos para crear tu primer archivo de documentación:
@@ -44,7 +45,7 @@ Ahora sigue estos pasos para crear tu primer archivo de documentación:
 
 ![image](https://user-images.githubusercontent.com/101894380/160959053-baac65df-2097-4ddc-8f2e-bd821d9c5978.png)
 
-3) Se te mostrará una pantalla en la que deberás asignar un nombre al repositorio (preferentemente uno con relación al proyecto que deseas dar seguimiento y documentar). Así mismo, es recomendable llenar el campo de "description". Es **importante** que selecciones las opciones "public" y "Add a README file", pues esto creará el documento README en el que podrás redactar la documentación y será de acceso público (más adelante veremos las ventajas de este tipo de acceso). Después de lo anterior, deberías tener algo así:
+3) Se mostrará una pantalla en la que deberás asignar un nombre al repositorio (preferentemente uno con relación al proyecto que deseas dar seguimiento y documentar). Así mismo, es recomendable llenar el campo de "description". Es **importante** que selecciones las opciones "public" y "Add a README file", pues esto creará el documento README en el que podrás redactar la documentación y será de acceso público (más adelante veremos las ventajas de este tipo de acceso). Después de lo anterior, deberías tener algo así:
 
 ![image](https://user-images.githubusercontent.com/101894380/160960485-4ea5faa2-7fa7-43b3-9403-53ba83473e7c.png)
 
@@ -70,17 +71,37 @@ Los documentos README.md se editan con escritura tipo Markdown. En este sistema 
 Aquí un resúmen de cómo escribir en Markdown:
 
 ![image](https://user-images.githubusercontent.com/101894380/160968419-6865d7e5-779d-41eb-9b70-09e6b10ba790.png)
+Imagen de *Silo Creativo* [2]
 
 En [este link](https://stackedit.io/app#) puedes encontrar un ejemplo de como se ve un texto en formato Markdown y, por ejemplo, cómo se vería una vez que se sube a GitHub. 
 
 ### Estructura sugerida
 
+Es importante comenzar por reconocer el público para el que escribes la documentación. Este reconocimiento te ayudará a saber que tan técnica y formal debe ser tu redacción. Así mismo, debes apremiar la claridad y sencilles.
+
+Como todo artículo, la documentación comienza por un título; debe ser corto y descriptivo. Inmediatamente después, describe brevemente de qué trata tu proyecto y qué problema resuelve. Anexa una tabla de contenidos en este punto; esto servirá para que las personas que visiten tu repositorio puedan viajar rápidamente dentro de tu documentación.
+
+Si deseas que otras personas puedan ve
+
+Escribe una pequeña introducción en la que menciones aspectos importantes del funcionamiento de tu proyecto o conceptos con los que quizá no todos estén familiarizados. 
 
 ## Ventajas de documentar
 
+En general, documentar nos proporciona muchos beneficios. Entre los principales:
+
+- Funge como una plataforma para realizar constantes contribuciones entre equipos de trabajo.
+- La documentación "vende" el proyecto o la idea que se trabaja. Le dice a la gente que este proyecto es para ellos. 
+- Funciona como manual de uso.
+- El proyecto/código mejora.
+- Permite monitorear avances y problemas.
+- Desarrolla habilidades de escritura.
+
+El hackatón es un evento en el que principiantes y expertos colaboran para desarrollar software y, el hecho de que los proyectos sobre los que se está trabajando se documenten representa una herramienta colaborativa valiosa.
 
 ## Referencias 
 
 [1] Write The Docs, “A beginner’s guide to writing documentation — Write the Docs,” www.writethedocs.org, Jun. 01, 2021. https://www.writethedocs.org/guide/writing/beginners-guide-to-docs/.
+
+[2] A. Serrano, “Qué es Markdown y por qué deberías empezar a usarlo • Silo Creativo,” Silo Creativo, May 12, 2019. https://www.silocreativo.com/que-es-markdown-por-que-deberias-empezar-a-usarlo/ (accessed Mar. 31, 2022).
 
 
